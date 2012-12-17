@@ -1,4 +1,4 @@
 globetrot-wms
 =============
-
-WMS,RFID,Free, OPEN
+A supply chain suite for 
+WMS,TMS, VRP RFID, Free, OPEN Source
